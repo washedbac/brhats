@@ -1,7 +1,7 @@
 {
     "hats": [
         {
-            "author": "washed bac",
+            "author": "Ophidian",
             "climbresource": "loweye_climb.png",
             "condition": "None",
             "name": "Loweye Hat",
@@ -11,17 +11,17 @@
             "resource": "loweye.png"
         },
 		{
-            "author": "washed bac",
+            "author": "PhasmoFireGod",
             "climbresource": "no_climb.png",
             "condition": "None",
-            "name": "Glitch",
+            "name": "Glitch hat",
             "package": "Community Hats",
             "reshasha": "03b099aa33fe35604fa8957135636014",
             "reshashc": "5c470709b5eddc2903a76a3c37d189b2",
             "resource": "glitch.png"
         },
 		{
-            "author": "washed bac",
+            "author": "Pigoletto",
             "climbresource": "no_climb.png",
             "condition": "None",
             "name": "Little Demon Hat",
@@ -40,6 +40,17 @@
             "reshasha": "5084d8187e216ac0e3d68e9f1f028b94",
             "reshashc": "153ca96e6793f9a2423de8eae23647a5",
             "resource": "racecar_adaptive.png"
+        },
+		{
+            "author": "SugaNope",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Gigawolf hat",
+            "package": "Community Hats",
+            "reshasha": "c2f8dee55c96f3d8473a9a298784ad61",
+            "reshashc": "8f94fcee635f9959f2575968437b3ec5",
+            "reshashf": "aa0a0f807da54a0b6246e4304e87ac31",
+            "resource": "gigawolf.png"
         },
       ]
 }
