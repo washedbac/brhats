@@ -135,6 +135,7 @@
             "resource": "OliveKruzadarhat.png"
 		},
 		{
+			"adaptive": true,
 			"author": "VoidSilly",
             "climbresource": "no_climb.png",
             "condition": "None",
