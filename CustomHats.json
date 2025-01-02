@@ -10,5 +10,15 @@
             "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
             "resource": "loweye.png"
         },
+		{
+            "author": "washed bac",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Glitch",
+            "package": "Community Hats",
+            "reshasha": "03b099aa33fe35604fa8957135636014",
+            "reshashc": "5c470709b5eddc2903a76a3c37d189b2",
+            "resource": "glitch.png"
+        },
       ]
 }
