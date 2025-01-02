@@ -30,5 +30,16 @@
             "reshashc": "fe8112518a2f570649e5b89a42a826d4",
             "resource": "littledemonhat.png"
         },
+		{
+			"adaptive": true,
+            "author": "DesiDaWulf",
+            "climbresource": "racecar_climb_adaptive.png",
+            "condition": "None",
+            "name": "RaceCar",
+            "package": "Community Hats",
+            "reshasha": "5084d8187e216ac0e3d68e9f1f028b94",
+            "reshashc": "153ca96e6793f9a2423de8eae23647a5",
+            "resource": "racecar_adaptive.png"
+        },
       ]
 }
