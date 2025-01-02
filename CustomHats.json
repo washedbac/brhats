@@ -137,7 +137,7 @@
 		{
 			"adaptive": true,
 			"author": "VoidSilly",
-            "climbresource": "no_climb.png",
+            "climbresource": "happymask_climb.png",
             "condition": "None",
             "name": "Happy Mask",
             "package": "VoidSilly",
@@ -167,6 +167,39 @@
             "reshashc": "b75a172bb39f285be6d8f508c19968df",
             "reshashf": "a228eb0185d5bbe57174a7c161e37b87",
             "resource": "ball_adaptive.png"
+        },
+		{
+            "adaptive": true,
+            "author": "VoidSilly",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Happy Visor",
+            "package": "VoidSilly",
+            "reshasha": "8fe29f73013c7e2cd39769bb28b37031",
+            "reshashc": "a454b733f1cd5d999de5905b5ffce945",
+            "resource": "happyvisor_adaptive.png"
+        },
+		{
+            "adaptive": true,
+            "author": "VoidSilly",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "lel Visor",
+            "package": "VoidSilly",
+            "reshasha": "254bb544fda1c7f97e33678f2d1dace1",
+            "reshashc": "b6d8502562df15b1a6240db8ad46864c",
+            "resource": "lelvisor_adaptive.png"
+        },
+		{
+            "adaptive": true,
+            "author": "VoidSilly",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Shock Visor",
+            "package": "VoidSilly",
+            "reshasha": "35abb5a1357bd8fafcc3be0c1374cee4",
+            "reshashc": "fce89d3966156ad1c0ba2b3ff0c3ee37",
+            "resource": "shockvisor_adaptive.png"
         },
       ]
 }
