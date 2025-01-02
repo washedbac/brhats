@@ -77,5 +77,16 @@
             "reshashc": "ba9ddc896ad8f6e467243c7b076cbfc3",
             "resource": "Hsky_adaptive.png"
         },
+		{
+            "adaptive": true,
+            "author": "Lanelore",
+            "climbresource": "Banana_climb.png",
+            "condition": "None",
+            "name": "Banana",
+            "package": "Community Hats",
+            "reshasha": "34401da5992ebe42bf35394a2aa00fcb",
+            "reshashc": "ff264fb0ad819407e9c0d77fcc6a10b5",
+            "resource": "Banana_adaptive.png"
+        },
       ]
 }
