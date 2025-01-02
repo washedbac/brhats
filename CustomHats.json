@@ -114,5 +114,35 @@
             "reshashc": "a8c52ce708317e65cf84eb5e066fca3d",
             "resource": "Chef_adaptive.png"
         },
+		{
+			"author": "LayZ",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Sans Hat",
+            "package": "Community Hats",
+            "reshashb": "620555349afced767f02c0891326e8a8",
+            "reshashc": "442e9a763b667bcbf5f950171ef2fbd5",
+            "resource": "sanshat.png"
+		},
+		{
+			"author": "Sarinjin",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Olive Kruzadar Hat",
+            "package": "Community Hats",
+            "reshasha": "502ade0b36025526c609ede6e4e1bc9c",
+            "reshashb": "291286717b880b0ce2cf807508ada0a3",
+            "resource": "OliveKruzadarhat.png"
+		},
+		{
+			"author": "VoidSilly",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Happy Mask",
+            "package": "VoidSilly",
+            "reshasha": "700721034a2a7e8e5e1e271c1a288f2b",
+            "reshashc": "b49b2996e1aae1281619d1b2b04d76c6",
+            "resource": "happymask.png"
+		},
       ]
 }
