@@ -20,5 +20,15 @@
             "reshashc": "5c470709b5eddc2903a76a3c37d189b2",
             "resource": "glitch.png"
         },
+		{
+            "author": "washed bac",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Little Demon Hat",
+            "package": "Community Hats",
+            "reshasha": "b0167a2e11c848696262a78e8c855a60",
+            "reshashc": "fe8112518a2f570649e5b89a42a826d4",
+            "resource": "littledemonhat.png"
+        },
       ]
 }
