@@ -101,5 +101,18 @@
             "reshashf": "5ddcd36a916a10680551947677287dc4",
             "resource": "GlitchedNPC_adaptive.png"
         },
+		{
+            "adaptive": true,
+            "author": "K3ndo",
+            "backresource": "Chef_adaptive_back.png",
+            "climbresource": "Chef_adaptive_climb.png",
+            "condition": "None",
+            "name": "Chef",
+            "package": "Community Hats",
+            "reshasha": "3e484dcc4844a3d64c07cc64cd61fef9",
+            "reshashb": "e66bf58c4852236d151d0d60c418875d",
+            "reshashc": "a8c52ce708317e65cf84eb5e066fca3d",
+            "resource": "Chef_adaptive.png"
+        },
       ]
 }
