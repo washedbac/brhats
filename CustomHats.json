@@ -88,5 +88,18 @@
             "reshashc": "ff264fb0ad819407e9c0d77fcc6a10b5",
             "resource": "Banana_adaptive.png"
         },
+		{
+            "adaptive": true,
+            "author": "Drakoni",
+            "climbresource": "GlitchedNPC_climb.png",
+            "condition": "None",
+            "flipresource": "GlitchedNPC_flip.png",
+            "name": "GlitchedNPC",
+            "package": "Community Hats",
+            "reshasha": "3bde3588e0b8ae2429e31eaa74fa25fd",
+            "reshashc": "fe6f40e50d4919a022f811f60f1f9826",
+            "reshashf": "5ddcd36a916a10680551947677287dc4",
+            "resource": "GlitchedNPC_adaptive.png"
+        },
       ]
 }
