@@ -206,7 +206,7 @@
             "climbresource": "no_climb.png",
             "condition": "None",
             "name": "Militari",
-            "package": "Community Hats",
+            "package": "RaduMaster",
             "reshasha": "0461c5d21eb22b1504962bda4c91adee",
             "reshashc": "d88df79a901531bdee7937862ddfed8a",
             "resource": "militari.png"
@@ -241,6 +241,17 @@
             "reshasha": "4d25603d6c185a19e595345247969a4d",
             "reshashc": "1c88dcc90504e7736f96da6d5373bbdb",
             "resource": "Exposed_brain.png"
+        },
+		{
+            "author": "RaduMaster",
+            "backresource": "AwardBack.png",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Award",
+            "package": "RaduMaster",
+            "reshasha": "0e5f4308be02dea72aa2fd002d19b116",
+            "reshashc": "290d5a0a88b587a25b4b929d7f57ae15",
+            "resource": "Award.png"
         },
       ]
 }
