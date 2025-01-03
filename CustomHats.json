@@ -211,5 +211,15 @@
             "reshashc": "d88df79a901531bdee7937862ddfed8a",
             "resource": "militari.png"
         },
+		{
+            "author": "The Glitch",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "King",
+            "package": "Community Hats",
+            "reshasha": "89be09d7b0257ad40987e938d239f2c7",
+            "reshashc": "d5da2e3b26cb6087ff5ed1e5a1473224",
+            "resource": "king.png"
+        },
       ]
 }
