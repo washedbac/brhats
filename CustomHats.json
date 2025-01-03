@@ -221,29 +221,6 @@
             "reshashc": "d5da2e3b26cb6087ff5ed1e5a1473224",
             "resource": "king.png"
         },
-		{
-			"adaptive": true,
-            "author": "Spark",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "Belly",
-            "package": "Spark",
-            "reshasha": "02cbfb22379791ad33724f02f4226092",
-            "reshashc": "b27abbb0f716bbef6388228f3375b357",
-            "resource": "Belly.png"
-        },
-        {
-			"adaptive": true,
-            "author": "Spark",
-            "backresource": "hoodie_adaptive_back.png",
-            "climbresource": "hoodie_adaptive_climb.png",
-            "condition": "None",
-            "name": "The Ultimate Hat",
-            "package": "Spark",
-            "reshasha": "21273f1c915b8810e489fca6f11421ad",
-            "reshashc": "292dd4dbaf26b62e978144f17beb70e7",
-            "resource": "The_ultimate_hat.png"
-        },
         {
 			"adaptive": true,
             "author": "Spark",
