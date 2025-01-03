@@ -201,5 +201,15 @@
             "reshashc": "fce89d3966156ad1c0ba2b3ff0c3ee37",
             "resource": "shockvisor_adaptive.png"
         },
+		{
+            "author": "RaduMaster",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Militari",
+            "package": "Community Hats",
+            "reshasha": "0461c5d21eb22b1504962bda4c91adee",
+            "reshashc": "d88df79a901531bdee7937862ddfed8a",
+            "resource": "militari.png"
+        },
       ]
 }
