@@ -243,6 +243,7 @@
             "resource": "Exposed_brain.png"
         },
 		{
+			"adaptive": true,
             "author": "RaduMaster",
             "backresource": "AwardBack.png",
             "climbresource": "no_climb.png",
