@@ -254,5 +254,16 @@
             "reshashc": "290d5a0a88b587a25b4b929d7f57ae15",
             "resource": "Award.png"
         },
+		{
+            "adaptive": true,
+            "author": "Kiwibelike",
+            "climbresource": "suskiwi_climb.png",
+            "condition": "None",
+            "name": "Sus Kiwi",
+            "package": "Community Hats",
+            "reshasha": "4d7d61bce9015a4bc51527a7d9b97eb1",
+            "reshashc": "3c66426b3db902b1406951b48afe29c2",
+            "resource": "suskiwi_adaptive.png"
+        },
       ]
 }
