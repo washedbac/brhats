@@ -274,5 +274,15 @@
             "reshashc": "aaffb932b9bea413181c04b552976933",
             "resource": "disgustednerd.png"
         },
+		{
+            "author": "RaduMaster",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Kiwi",
+            "package": "RaduMaster",
+            "reshasha": "c4546885fa4d9c3d86013f4bfec876eb",
+            "reshashc": "ed7222512cd6b532ce23d53870e79577",
+            "resource": "kiwi.png"
+        },
       ]
 }
