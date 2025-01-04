@@ -216,7 +216,7 @@
             "climbresource": "no_climb.png",
             "condition": "None",
             "name": "King",
-            "package": "Community Hats",
+            "package": "The Glitch",
             "reshasha": "89be09d7b0257ad40987e938d239f2c7",
             "reshashc": "d5da2e3b26cb6087ff5ed1e5a1473224",
             "resource": "king.png"
@@ -283,6 +283,46 @@
             "reshasha": "c4546885fa4d9c3d86013f4bfec876eb",
             "reshashc": "ed7222512cd6b532ce23d53870e79577",
             "resource": "kiwi.png"
+        },
+		{
+            "author": "The Glitch",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "UFO",
+            "package": "The Glitch",
+            "reshasha": "ed0a90633bcfa9f4e8156a2b5b758be1",
+            "reshashc": "2a4cc4d028ad6f4dcefcd8dcbf7f6e05",
+            "resource": "ufo.png"
+        },
+		{
+            "author": "The Glitch",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Pizza Hat",
+            "package": "The Glitch",
+            "reshasha": "03eea2400e0a440a871f2b46bdd71edc",
+            "reshashc": "81b1de60d0814c7402783c3948cf762c",
+            "resource": "pizzahat.png"
+        },
+		{
+            "author": "The Glitch",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Submerged Suit",
+            "package": "The Glitch",
+            "reshasha": "9970b70fb6df97b778fdb3543bd8d52f",
+            "reshashc": "37c41c9cd35706738e553dbb6d7568a6",
+            "resource": "submerged_pack.png"
+        },
+		{
+            "author": "The Glitch",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Submerged Hat",
+            "package": "The Glitch",
+            "reshasha": "b24b8f911115e04466318b69b783c890",
+            "reshashc": "32ca020ccc3da31233ddfe6af718209d",
+            "resource": "submerged_hat.png"
         },
       ]
 }
