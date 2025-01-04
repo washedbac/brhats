@@ -314,5 +314,16 @@
             "reshashc": "37c41c9cd35706738e553dbb6d7568a6",
             "resource": "submergedhat.png"
         },
+		{
+			"adaptive": true,
+            "author": "RaduMaster",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "For You",
+            "package": "RaduMaster",
+            "reshasha": "cbae551742baccc8196198cf088fa9d9",
+            "reshashc": "3a4999a99fb44f7fb12a0a36d3051f03",
+            "resource": "foryou.png"
+        },
       ]
 }
