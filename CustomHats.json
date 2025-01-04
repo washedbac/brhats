@@ -308,20 +308,10 @@
             "author": "The Glitch",
             "climbresource": "no_climb.png",
             "condition": "None",
-            "name": "Submerged Suit",
+            "name": "Submerged Hat",
             "package": "The Glitch",
             "reshasha": "9970b70fb6df97b778fdb3543bd8d52f",
             "reshashc": "37c41c9cd35706738e553dbb6d7568a6",
-            "resource": "submerged_pack.png"
-        },
-		{
-            "author": "The Glitch",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "Submerged Hat",
-            "package": "The Glitch",
-            "reshasha": "b24b8f911115e04466318b69b783c890",
-            "reshashc": "32ca020ccc3da31233ddfe6af718209d",
             "resource": "submergedhat.png"
         },
       ]
