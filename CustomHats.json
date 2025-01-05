@@ -326,7 +326,6 @@
             "resource": "foryou.png"
         },
 		{
-			"adaptive": true,
             "author": "The Glitch",
             "climbresource": "no_climb.png",
             "condition": "None",
@@ -335,6 +334,16 @@
             "reshasha": "996268bd4265a9ddf9bd88c9eed3ad67",
             "reshashc": "562c36450ca0260413fd8b9f3a47c7b4",
             "resource": "octopus.png"
+        },
+		{
+            "author": "The Glitch",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Vest",
+            "package": "The Glitch",
+            "reshasha": "92d5da80ae4c282343e5aac5845d49f7",
+            "reshashc": "84a705ef5b8d490022e8a0d1330d7a25",
+            "resource": "vest.png"
         },
       ]
 }
