@@ -109,6 +109,14 @@
       "package": "StellarPlates",
       "reshasha": "47672e518827be4e27e407ed1d187bdb",
       "resource": "yxritheslayer.png"
+    },
+    {
+      "author": "washed bac",
+      "condition": "None",
+      "name": "My Dad",
+      "package": "washed bac",
+      "reshasha": "47672e518827be4e27e407ed1d187ddb",
+      "resource": "mydad.png"
     }
   ]
 }
