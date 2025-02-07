@@ -209,6 +209,50 @@
       "package": "Developer Visors",
       "reshasha": "e9f176275340a89e11330eeca1361eb2",
       "resource": "loweyevisor.png"
+    },
+    {
+      "author": "RaduMaster",
+      "condition": "None",
+      "name": "Disgusted Nerd",
+      "package": "RaduMaster",
+      "reshasha": "e9f176275340a89e11330eeca1361be2",
+      "resource": "disgustednerd.png"
+    },
+    {
+      "adaptive": true,
+      "author": "Spark",
+      "condition": "None",
+      "name": "Wide Visor",
+      "package": "Community Visors",
+      "reshasha": "e9f176275340a89e11330eeca136jdi9",
+      "resource": "Wide_visor.png"
+    },
+    {
+      "adaptive": true,
+      "author": "VoidSilly",
+      "condition": "None",
+      "name": "Shock Visor",
+      "package": "VoidSilly",
+      "reshasha": "e9f176275340a89e11330eeca136d9w9",
+      "resource": "shockvisor_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "VoidSilly",
+      "condition": "None",
+      "name": "lel Visor",
+      "package": "VoidSilly",
+      "reshasha": "e9f176275340a89e11330eeca136jj8s",
+      "resource": "lelvisor_adaptive.png"
+    },    
+    {
+      "adaptive": true,
+      "author": "VoidSilly",
+      "condition": "None",
+      "name": "Happy Visor",
+      "package": "VoidSilly",
+      "reshasha": "e9f176275340a89e11330eeca136jdww",
+      "resource": "happyvisor_adaptive.png"
     }
   ]
 }

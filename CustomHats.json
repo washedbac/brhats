@@ -169,39 +169,6 @@
             "resource": "ball_adaptive.png"
         },
 		{
-            "adaptive": true,
-            "author": "VoidSilly",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "Happy Visor",
-            "package": "VoidSilly",
-            "reshasha": "8fe29f73013c7e2cd39769bb28b37031",
-            "reshashc": "a454b733f1cd5d999de5905b5ffce945",
-            "resource": "happyvisor_adaptive.png"
-        },
-		{
-            "adaptive": true,
-            "author": "VoidSilly",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "lel Visor",
-            "package": "VoidSilly",
-            "reshasha": "254bb544fda1c7f97e33678f2d1dace1",
-            "reshashc": "b6d8502562df15b1a6240db8ad46864c",
-            "resource": "lelvisor_adaptive.png"
-        },
-		{
-            "adaptive": true,
-            "author": "VoidSilly",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "Shock Visor",
-            "package": "VoidSilly",
-            "reshasha": "35abb5a1357bd8fafcc3be0c1374cee4",
-            "reshashc": "fce89d3966156ad1c0ba2b3ff0c3ee37",
-            "resource": "shockvisor_adaptive.png"
-        },
-		{
             "author": "RaduMaster",
             "climbresource": "no_climb.png",
             "condition": "None",
@@ -220,17 +187,6 @@
             "reshasha": "89be09d7b0257ad40987e938d239f2c7",
             "reshashc": "d5da2e3b26cb6087ff5ed1e5a1473224",
             "resource": "king.png"
-        },
-        {
-			"adaptive": true,
-            "author": "Spark",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "Wide Visor",
-            "package": "Spark",
-            "reshasha": "aea13dd8eefffe806e365877214942de",
-            "reshashc": "814aada8c37f820a14c3f07b72fb6a52",
-            "resource": "Wide_visor.png"
         },
         {
             "author": "Spark",
@@ -263,16 +219,6 @@
             "reshasha": "4d7d61bce9015a4bc51527a7d9b97eb1",
             "reshashc": "3c66426b3db902b1406951b48afe29c2",
             "resource": "suskiwi.png"
-        },
-		{
-            "author": "RaduMaster",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "Disgusted Nerd",
-            "package": "RaduMaster",
-            "reshasha": "3ab30fec438291075ba2b2cb28fad4d8",
-            "reshashc": "aaffb932b9bea413181c04b552976933",
-            "resource": "disgustednerd.png"
         },
 		{
             "author": "RaduMaster",
