@@ -1,0 +1,206 @@
+{
+  "visors": [
+    //"adaptive": false,
+    //"resource": "resourcefilename.png"
+    //"reshasha": "resourcehash",
+    //"flipresource": "flipfilename",
+    //"reshashf": "fliphash",
+    //"author": "",
+    //"condition": "None",
+    //"infront": true,
+    //"name": "name",
+    //"package": "StellarVisors",
+    //"animationprefix": "animationname"
+    //"animationframes": "numberofframes"
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "GooglyEyes",
+      "package": "Animated Visors",
+      "reshasha": "acd1a6c0945487dbab015346120a0220",
+      "animationprefix": "GooglyEyes",
+      "animationframes": "40",
+      "resource": "GooglyEyes_000.png"
+    },
+    {
+      "adaptive": true,
+      "infront": true,
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "GoofyGlasses",
+      "package": "Animated Visors",
+      "reshasha": "23cd8fb3a36a34a1127c3783969ac339",
+      "animationprefix": "GoofyGlasses",
+      "animationframes": "64",
+      "resource": "GoofyGlasses_000.png"
+    },
+    {
+      "infront": true,
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Wendigo",
+      "package": "StellarVisors",
+      "reshasha": "0ecd8a281e46df8fcc421155a9e35c69",
+      "resource": "Wendigo.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Mochi_Mask",
+      "package": "StellarVisors",
+      "reshasha": "a5d287a750f5349c7e77f1a4bbb056d1",
+      "resource": "Mochi_Mask.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Jack_O_Lantern",
+      "package": "Animated Visors",
+      "reshasha": "7b437580accef9ba450a377f0a5c3d17",
+      "animationprefix": "Jack_O_Lantern",
+      "animationframes": "25",
+      "resource": "Jack_O_Lantern_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Ozzaworld",
+      "package": "Animated Visors",
+      "reshasha": "4e7991a606c5f9ca906f8956b55d7c9d",
+      "animationprefix": "Ozzaworld",
+      "animationframes": "50",
+      "resource": "Ozzaworld_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Battery",
+      "package": "Animated Visors",
+      "reshasha": "220ed7a34950f6bea7ac7fd1525318e1",
+      "animationprefix": "Battery",
+      "animationframes": "91",
+      "resource": "Battery_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "KAYO",
+      "package": "StellarVisors",
+      "reshasha": "0451f2508c78a700f06d30cc054658f0",
+      "resource": "KAYO.png"
+    },
+    {
+      "infront": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Cat_Mask",
+      "package": "StellarVisors",
+      "reshasha": "9ef9ca3bc195d5bfbf8c45629a9309a0",
+      "resource": "Cat_Mask.png"
+    },
+    {
+      "infront": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Ghost_Mask",
+      "package": "StellarVisors",
+      "reshasha": "a97de8d1cf35667378cda9b30d14d400",
+      "resource": "Ghost_Mask.png"
+    },
+    {
+      "infront": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Bat_Mask",
+      "package": "StellarVisors",
+      "reshasha": "474fe494b3d01d2e58acd33650563216",
+      "resource": "Bat_Mask.png"
+    },
+    {
+      "infront": true,
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Skull_Mask",
+      "package": "StellarVisors",
+      "reshasha": "cac25ae4ef6edc0c007e563b1468e516",
+      "resource": "Skull_Mask.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "MusicNotes",
+      "package": "Animated Visors",
+      "reshasha": "267174820c6ddf9fb86f05e2e0725289",
+      "animationprefix": "MusicNotes",
+      "animationframes": "19",
+      "resource": "MusicNotes_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Wink",
+      "package": "Animated Visors",
+      "reshasha": "0d254ccd01b0a90c3c3b85f9f26e5e46",
+      "animationprefix": "Wink",
+      "animationframes": "50",
+      "resource": "Wink_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Blink",
+      "package": "Animated Visors",
+      "reshasha": "cb3c8cbd23d843ac1a4b0da63b257552",
+      "animationprefix": "Blink",
+      "animationframes": "35",
+      "resource": "Blink_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "BlinkBlush",
+      "package": "Animated Visors",
+      "infront": true,
+      "reshasha": "a1335ca7556cd50d3a60295212e679a6",
+      "animationprefix": "BlinkBlush",
+      "animationframes": "35",
+      "resource": "BlinkBlush_000.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Fishies",
+      "package": "Animated Visors",
+      "reshasha": "84f04c8d800fd5c149123c1acd38646e",
+      "animationprefix": "Fishies",
+      "animationframes": "53",
+      "resource": "Fishies_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Wipers",
+      "package": "Animated Visors",
+      "reshasha": "b05100918464d4db080b8011755d110d",
+      "animationprefix": "Wipers",
+      "animationframes": "20",
+      "resource": "Wipers_000.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Blehh",
+      "package": "StellarVisors",
+      "reshasha": "64b40ffef5e140179effb34ad3f4f766",
+      "resource": "Blehh.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "TVStatic",
+      "package": "StellarVisors",
+      "reshasha": "e9f176275340a89e11330eeca1361e2b",
+      "resource": "TVStatic.png"
+    }
+  ]
+}

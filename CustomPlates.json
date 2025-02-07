@@ -1,0 +1,114 @@
+{
+  "plates": [
+    //"resource": "resourcefilename.png"
+    //"reshasha": "resourcehash",
+    //"author": "",
+    //"condition": "None",
+    //"name": "name",
+    //"package": "StellarVisors",
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "StellWasHere",
+      "package": "Developer Plates",
+      "reshasha": "467aa86a2e215f5119b2ff8dc6e9bf85",
+      "resource": "StellWasHere.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "SeaGirl13",
+      "package": "StellarPlates",
+      "reshasha": "bc939dc4a196ce1da1bf68d729161883",
+      "resource": "SeaGirl13.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "FairyFox09",
+      "package": "StellarPlates",
+      "reshasha": "3370f5b258ab0573568e550b78df88f5",
+      "resource": "FairyFox09.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "CrazyChris576",
+      "package": "StellarPlates",
+      "reshasha": "fba30b8023cdca4801cbea69b5bd1f13",
+      "resource": "CrazyChris576.png"
+    },
+    {
+      "author": "Cheetah",
+      "condition": "None",
+      "name": "Mads",
+      "package": "StellarPlates",
+      "reshasha": "96a970a5e102d63399ab7520769bd6fb",
+      "resource": "Mads.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Clouds",
+      "package": "StellarPlates",
+      "reshasha": "947c48daa8789c740499068b30e82122",
+      "resource": "Clouds.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Kwix",
+      "package": "StellarPlates",
+      "reshasha": "6fe5201e58c8eb977a2d01f668d71b80",
+      "resource": "Kwix.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "19",
+      "package": "StellarPlates",
+      "reshasha": "24eaddd8ebbbf10c12908de9d0a63737",
+      "resource": "19.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Pinkeeplays",
+      "package": "StellarPlates",
+      "reshasha": "53a122674c78528ba47debbb86b31622",
+      "resource": "Pinkeeplays.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "Fluuffwu",
+      "package": "Developer Plates",
+      "reshasha": "0885a3e447f23a9345b097a23422dda7",
+      "resource": "Fluuffwu.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "ilyssaw",
+      "package": "Developer Plates",
+      "reshasha": "dc5cc30a938f93c1fa8dac5dc26b0c7e",
+      "resource": "ilyssaw.png"
+    },
+    {
+      "author": "Jazzy Kate",
+      "condition": "None",
+      "name": "jazzy_kate",
+      "package": "StellarPlates",
+      "reshasha": "b944012b6b4e3fe973d2fa8574400be7",
+      "resource": "jazzy_kate.png"
+    },
+    {
+      "author": "Seagirl",
+      "condition": "None",
+      "name": "yuritheslayer",
+      "package": "StellarPlates",
+      "reshasha": "47672e518827be4e27e407ed1d187bdb",
+      "resource": "yxritheslayer.png"
+    }
+  ]
+}
