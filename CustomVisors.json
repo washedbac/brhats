@@ -4,6 +4,7 @@
     //"resource": "resourcefilename.png"
     //"reshasha": "resourcehash",
     //"flipresource": "flipfilename",
+    //"climbresource": "climbfilename",
     //"reshashf": "fliphash",
     //"author": "",
     //"condition": "None",
@@ -253,6 +254,25 @@
       "package": "VoidSilly",
       "reshasha": "e9f176275340a89e11330eeca136jdww",
       "resource": "happyvisor_adaptive.png"
+    },
+    {
+      "adaptive": true,
+      "author": "VoidSilly",
+      "condition": "None",
+      "name": "Happy Mask",
+      "package": "VoidSilly",
+      "reshasha": "e9f176275340a89e11330eeca136jwdd",
+      "resource": "happymask.png"
+      "climbresource": "happymask_climb.png"
+    },
+    {
+      "adaptive": false,
+      "author": "Spark",
+      "condition": "None",
+      "name": "Exposed Brain",
+      "package": "Community Hats",
+      "reshasha": "e9f176275340a89e11330eeca136wdww",
+      "resource": "Exposed_brain.png"
     }
   ]
 }
