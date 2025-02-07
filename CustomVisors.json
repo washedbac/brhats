@@ -201,6 +201,14 @@
       "package": "StellarVisors",
       "reshasha": "e9f176275340a89e11330eeca1361e2b",
       "resource": "TVStatic.png"
+    },
+    {
+      "author": "washed bac",
+      "condition": "None",
+      "name": "Loweye Visor",
+      "package": "Developer Visors",
+      "reshasha": "e9f176275340a89e11330eeca1361eb2",
+      "resource": "loweyevisor.png"
     }
   ]
 }
