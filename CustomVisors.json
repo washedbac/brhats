@@ -284,5 +284,27 @@
       "animationframes": "27",
       "resource": "Angel_000.png"
     },
+    {
+      "author": "washed bac",
+      "condition": "None",
+      "name": "Bubble Tea",
+      "package": "Animated Visors",
+      "infront": true,
+      "reshasha": "a1335ca7556cd50d3a60295212e67wbb",
+      "animationprefix": "Bubble_Tea",
+      "animationframes": "3",
+      "resource": "BubbleTea_000.png"
+    },
+    {
+      "author": "washed bac",
+      "condition": "None",
+      "name": "Bubble Tea",
+      "package": "Animated Visors",
+      "infront": true,
+      "reshasha": "a1335ca7556cd50d3a60295212e67wbb",
+      "animationprefix": "Ghost",
+      "animationframes": "24",
+      "resource": "BubbleTea_000.png"
+    },
   ]
 }
