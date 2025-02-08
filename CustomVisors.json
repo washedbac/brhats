@@ -278,10 +278,11 @@
       "condition": "None",
       "name": "Angel",
       "package": "Animated Visors",
-      "reshasha": "84f04c8d800fd5c149123c1acd3864e6",
+      "infront": true,
+      "reshasha": "a1335ca7556cd50d3a60295212e679bw",
       "animationprefix": "Angel",
       "animationframes": "25",
       "resource": "Angel_000.png"
-    }
+    },
   ]
 }
