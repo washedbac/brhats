@@ -290,7 +290,7 @@
       "name": "Bubble Tea",
       "package": "Animated Visors",
       "infront": true,
-      "reshasha": "a1335ca7556cd50d3a60295212e67wbb",
+      "reshasha": "a1335ca7556cd50d3a60295212e67etw",
       "animationprefix": "Bubble_Tea",
       "animationframes": "3",
       "resource": "BubbleTea_000.png"
@@ -301,10 +301,10 @@
       "name": "Ghost",
       "package": "Animated Visors",
       "infront": true,
-      "reshasha": "a1335ca7556cd50d3a60295212e67weh",
+      "reshasha": "a1335ca7556cd50d3a60295212e679eh",
       "animationprefix": "Ghost",
       "animationframes": "24",
       "resource": "Ghost_000.png"
-    },
+    }
   ]
 }
