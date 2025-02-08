@@ -287,22 +287,22 @@
     {
       "author": "washed bac",
       "condition": "None",
-      "name": "Rainy Cloud",
+      "name": "RainyCloud",
       "package": "Animated Visors",
       "infront": true,
       "reshasha": "a1335ca7556cd50d3a60295212e67edb",
-      "animationprefix": "Rainy Cloud",
+      "animationprefix": "RainyCloud",
       "animationframes": "9",
       "resource": "Raincloud_000.png"
     },
     {
       "author": "washed bac",
       "condition": "None",
-      "name": "Rainbow Glasses",
+      "name": "RainbowGlasses",
       "package": "Animated Visors",
       "infront": true,
       "reshasha": "a1335ca7556cd50d3a60295212e67eji",
-      "animationprefix": "Rainbow Glasses",
+      "animationprefix": "RainbowGlasses",
       "animationframes": "9",
       "resource": "Rainbowshades_000.png"
     }
