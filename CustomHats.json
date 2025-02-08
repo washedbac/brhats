@@ -188,16 +188,6 @@
             "reshashc": "d5da2e3b26cb6087ff5ed1e5a1473224",
             "resource": "king.png"
         },
-        {
-            "author": "Spark",
-            "climbresource": "no_climb.png",
-            "condition": "None",
-            "name": "Exposed Brain",
-            "package": "Spark",
-            "reshasha": "4d25603d6c185a19e595345247969a4d",
-            "reshashc": "1c88dcc90504e7736f96da6d5373bbdb",
-            "resource": "Exposed_brain.png"
-        },
 		{
 			"adaptive": true,
             "author": "RaduMaster",

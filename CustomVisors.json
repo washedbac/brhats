@@ -272,6 +272,16 @@
       "package": "Community Hats",
       "reshasha": "e9f176275340a89e11330eeca136wdww",
       "resource": "Exposed_brain.png"
+    },
+    {
+      "author": "washed bac",
+      "condition": "None",
+      "name": "Angel",
+      "package": "Animated Visors",
+      "reshasha": "84f04c8d800fd5c149123c1acd3864e6",
+      "animationprefix": "Angel",
+      "animationframes": "27",
+      "resource": "Angel_000.png"
     }
   ]
 }
