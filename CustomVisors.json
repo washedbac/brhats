@@ -305,6 +305,24 @@
       "animationprefix": "RainbowGlasses",
       "animationframes": "16",
       "resource": "RainbowGlasses_000.png"
+    },
+    {
+      "adaptive": false,
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Isaac?!",
+      "package": "CraftR",
+      "reshasha": "e9f176275340a89e11330eeca136wdwe",
+      "resource": "isaac.png"
+    },
+    {
+      "adaptive": false,
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Eye of Occult",
+      "package": "CraftR",
+      "reshasha": "e9f176275340a89e11330eeca136wdew",
+      "resource": "eyeofoccult.png"
     }
   ]
 }

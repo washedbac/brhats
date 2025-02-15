@@ -117,6 +117,158 @@
       "package": "washed bac",
       "reshasha": "47672e518827be4e27e407ed1d187ddb",
       "resource": "mydad.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Brzoz's Theatre",
+      "package": "Exclusive",
+      "reshasha": "47672e518827be4e27e407ed1d1878ja",
+      "resource": "brzoztheater.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "BT's Employee",
+      "package": "Exclusive",
+      "reshasha": "47672e518827be4e27e407ed1d1872hj",
+      "resource": "btemployee.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Miku",
+      "package": "Exclusive",
+      "reshasha": "47672e518827be4e27e407ed1d1872y7",
+      "resource": "Miku.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Mita",
+      "package": "Exclusive",
+      "reshasha": "47672e518827be4e27e407ed1d1872da",
+      "resource": "Mita.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "The Clocktower",
+      "package": "Exclusive",
+      "reshasha": "47672e518827be4e27e407ed1d1878za",
+      "resource": "clocktower.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Champion Battle",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878de",
+      "resource": "championbattle.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Cynthia",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878db",
+      "resource": "cynthia.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "DL-6",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dp",
+      "resource": "dl6.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Eevee Appeared",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dz",
+      "resource": "eeveeappeared.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Issac's Issac",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dt",
+      "resource": "isaacisaac.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Monikavent",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dc",
+      "resource": "Monikavent.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "nameplate.missing",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dr",
+      "resource": "missing.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "OBJECTION!",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878du",
+      "resource": "OBJECTION.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "OGym Leader",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dy",
+      "resource": "ogymleader.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Scars Etched By Flame",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dx",
+      "resource": "scarsetchedbyflame.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Simpy",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878do",
+      "resource": "Simpy.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Sus yori",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878ds",
+      "resource": "susyori.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Very Doki",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dl",
+      "resource": "VeryDoki.png"
+    },
+    {
+      "author": "CraftR",
+      "condition": "None",
+      "name": "Yuri",
+      "package": "CraftR",
+      "reshasha": "47672e518827be4e27e407ed1d1878dk",
+      "resource": "Yuri.png"
     }
   ]
 }

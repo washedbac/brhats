@@ -280,5 +280,126 @@
             "reshashc": "84a705ef5b8d490022e8a0d1330d7a52",
             "resource": "safarihat.png"
         },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "MISSING",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343e5aac5845d473j",
+            "reshashc": "84a705ef5b8d490022e8a0d1330d725s",
+            "resource": "missing.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Franziska",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343e5aac5845d473z",
+            "reshashc": "84a705ef5b8d490022e8a0d1330d725f",
+            "resource": "Franziska.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Mr. Scruffy. Det",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343e5aac58j2891sj",
+            "reshashc": "84a705ef5b8d490022e8a0d133028jse",
+            "resource": "mrscruffydet.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "von Karma",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343e5aac5789d473j",
+            "reshashc": "84a705ef5b8d490022812sjj82cx725s",
+            "resource": "vonkarma.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Maya Fey",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343e5aac58452m8sj",
+            "reshashc": "84a705ef5b8d490022e8a0d1330d775s",
+            "resource": "mayafey.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Feyer Maya",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343e58sik2912473j",
+            "reshashc": "84a705ef5b8d490022e881j2s8zd725s",
+            "resource": "feyermaya.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Judge",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343e5au8s21u7873j",
+            "reshashc": "84a705ef5b8d490022e8ak9h6568725s",
+            "resource": "judge.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Ash Ketchup",
+            "package": "CraftR",
+            "reshasha": "92d5da80ae4c282343ej82c5845d473j",
+            "reshashc": "84a705ef5b8d490022e2uj8s330d725s",
+            "resource": "ashketchup.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "PKMN Trainer Red",
+            "package": "CraftR",
+            "reshasha": "82d5daj8ae4c282343e5aac5j98s473j",
+            "reshashc": "94a705ef5b8dj8s212e8a0j8s92d725s",
+            "resource": "pkmntrainerred.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Gary Oak",
+            "package": "CraftR",
+            "reshasha": "22d5da80ae4c282343e5aac5845d473j",
+            "reshashc": "64a705ef5b8d490022e8a0d1330d725s",
+            "resource": "garyoak.png"
+        },
+		{
+            "author": "CraftR",
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "PKMN Trainer Gold",
+            "package": "CraftR",
+            "reshasha": "82d5daj8ae4c282j8s25aac5j98s473j",
+            "reshashc": "94a705ef5b8dj8sk98dda0j8s92d725s",
+            "resource": "pkmntrainergold.png"
+        },
+		{
+            "author": "CraftR",
+            "bounce": true,
+            "climbresource": "no_climb.png",
+            "condition": "None",
+            "name": "Dark Prince's Crown",
+            "package": "CraftR",
+            "reshasha": "82d5daj8ae4c2j8s23e5aac5j98s473j",
+            "reshashc": "94a705ef5b8k9dsy7anda0j8s92d725s",
+            "resource": "darkprincecrown.png"
+        }
       ]
 }
