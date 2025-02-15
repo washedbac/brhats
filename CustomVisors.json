@@ -307,7 +307,6 @@
       "resource": "RainbowGlasses_000.png"
     },
     {
-      "adaptive": false,
       "author": "CraftR",
       "condition": "None",
       "name": "Isaac?!",
@@ -316,7 +315,6 @@
       "resource": "isaac.png"
     },
     {
-      "adaptive": false,
       "author": "CraftR",
       "condition": "None",
       "name": "Eye of Occult",
